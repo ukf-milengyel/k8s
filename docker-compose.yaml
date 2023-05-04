@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  skuska:
+    image: mlengyel/skuska:latest
+    ports:
+    - "80:80"
